@@ -23,9 +23,7 @@ html {
 @media only screen and (min-width: 642px) and (max-width: 1090px) {
 
   #dolphin {
-    top: 0;
-    -ms-transform: rotate(20deg); /* IE 9 */
-    -webkit-transform: rotate(20deg); /* Safari */
-    transform: rotate(20deg);
+    top: 100;
+    transform: rotate(-0.25turn));
   }
 }
